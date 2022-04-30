@@ -1,5 +1,8 @@
 title: miniblog
 description: The tiniest blog
 theme: minima
+collections:
+   verbs:
+      output: true
 
   
