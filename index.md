@@ -13,4 +13,6 @@ layout: default
  
 - verbos super-irregulares (ver, vir, ser etc.)
 
-<a href="/verbs">{{ Look at the verbs }}</a> 
+Here is more
+
+<a href="/verbs"> Look at the verbs </a> 
