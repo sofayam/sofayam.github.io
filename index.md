@@ -4,4 +4,6 @@ layout: default
 
 Welcome to the minimal blog
 
-<a href="/verbs">{{ Look at the verbs }}</a> 
+Here is more
+
+<a href="/verbs"> Look at the verbs </a> 
