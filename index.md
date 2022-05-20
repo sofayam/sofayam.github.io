@@ -5,8 +5,6 @@ layout: default
 # Diversas dúvidas 
 
 
-- frases hipotéticas (o subjuntivo)
-
 
 <ul>
   {% for duvida in site.duvidas %}
