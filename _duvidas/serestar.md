@@ -1,6 +1,6 @@
 ---
 title: "Ser e Estar"
-layout: post
+layout: default
 ---
 
 Temporary and permanent characteristics 

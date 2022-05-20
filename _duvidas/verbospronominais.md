@@ -1,6 +1,6 @@
 ---
 title: "Os Verbos Pronominais"
-layout: post
+layout: default
 ---
 
 # Position
@@ -27,7 +27,12 @@ layout: post
 > Se eu tivesse sabão, lavar-me-ia.
 
 
+# Reciprocal
 
-# Reciprocal and Reflexive
+To avoid confusion use ums aos outros
+
+> Estes peixes comem-se (are good to eat)
+
+> Estes peixes comem-se ums aos outros (are cannibals)
 
 # Essential and Accidental
