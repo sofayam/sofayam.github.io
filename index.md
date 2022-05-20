@@ -6,8 +6,15 @@ layout: default
 
 - verbos pronominais (o reflexivo)
 - frases hipotéticas (o subjuntivo)
-- ser e estar
 
+
+<ul>
+  {% for duvida in site.duvidas %}
+    <li>
+      <a href="{{ duvida.url }}">{{ duvida.title }}</a> 
+    </li>
+  {% endfor %}
+</ul>
 
 # Problemas crónicos
  

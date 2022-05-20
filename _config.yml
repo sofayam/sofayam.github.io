@@ -1,8 +1,16 @@
-title: miniblog
-description: The tiniest blog
+title: Lingua Portuguesa
+description: Notas para Aulas
 theme: minima
 collections:
    verbs:
       output: true
+   duvidas:
+      output: true
+   aulas:
+      output: true
+      
+      
+       
+  
 
   
