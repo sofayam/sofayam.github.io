@@ -36,3 +36,16 @@ To avoid confusion use ums aos outros
 > Estes peixes comem-se ums aos outros (are cannibals)
 
 # Essential and Accidental
+
+Some verbs are always reflexive
+
+> Ela queixa-se sempre quando eu mudo alguma coisa
+
+Some can be used with and without
+
+> Ela sentiu arrependimento por suas ações
+
+> Ela sentiu-se triste
+
+
+
