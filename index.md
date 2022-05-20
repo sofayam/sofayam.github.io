@@ -4,7 +4,7 @@ layout: default
 
 # Diversas dúvidas 
 
-- verbos pronominais (o reflexivo)
+
 - frases hipotéticas (o subjuntivo)
 
 
@@ -16,10 +16,22 @@ layout: default
   {% endfor %}
 </ul>
 
+## ainda a fazer
+
+- frases hipotéticas (o subjuntivo)
+
+
 # Problemas crónicos
  
-- verbos super-irregulares (ver, vir, ser etc.)
+- verbos super-irregulares (ver, vir, ser etc.) <a href="/verbs"> Lista aqui </a> 
+ 
 
-Here is more
+# Notas de aulas
 
-<a href="/verbs"> Look at the verbs </a> 
+ <ul>
+  {% for aula in site.aulas %}
+    <li>
+      <a href="{{ aula.url }}">{{ aula.url }}</a> 
+    </li>
+  {% endfor %}
+</ul>
