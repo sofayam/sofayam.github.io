@@ -19,7 +19,8 @@ layout: default
 - frases hipotéticas (o subjuntivo)
 
 
-# Problemas crónicos
+
+# Verbos
  
 - verbos super-irregulares (ver, vir, ser etc.) <a href="/verbs"> Lista aqui </a> 
  
