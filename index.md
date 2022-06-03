@@ -16,7 +16,7 @@ layout: default
 
 ## ainda a fazer
 
-- frases hipotéticas (o subjuntivo)
+
 
 
 
